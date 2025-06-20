@@ -1,4 +1,4 @@
-import { Note } from '../../types';
+import { Note } from '../types';
 import { Button } from '@/components/ui/button';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 

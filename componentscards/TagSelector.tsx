@@ -1,4 +1,4 @@
-import { Note } from '../../types';
+import { Note } from '../types';
 import { Button } from '@/components/ui/button';
 
 export default function TagSelector({ notes, selectedTag, setTag }: { notes: Note[]; selectedTag: string; setTag: (tag: string) => void }) {

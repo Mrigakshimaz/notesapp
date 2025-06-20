@@ -1,6 +1,6 @@
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
-import { Note } from '../../types';
+import { Note } from '../types';
 import ReactMarkdown from 'react-markdown';
 
 export default function NoteCard({ note, onDelete, onEdit }: {

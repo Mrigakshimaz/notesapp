@@ -6,7 +6,7 @@ import NoteEditor from '@/componentscards/NoteEditor';
 import SearchBar from '@/componentscards/SearchBar';
 import TagSelector from '@/componentscards/TagSelector';
 import TrashPanel from '@/componentscards/TrashPanel'; 
-import { Note } from '../../types';
+import { Note } from '../types';
 import { Separator } from '@/components/ui/separator';
 
 export default function HomePage() {

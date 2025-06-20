@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { Note } from '../../types';
+import { Note } from '../types';
 import { v4 as uuidv4 } from 'uuid';
 import { Input } from '@/components/ui/input';
 import { Textarea } from '@/components/ui/textarea';
